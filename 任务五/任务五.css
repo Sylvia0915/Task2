@@ -1,0 +1,143 @@
+
+body{background: #D3D3D3;}
+body{background: #D3D3D3 url(../任务二/1.png) repeat-x;}
+p{
+    text-indent: 2em;
+}
+.top li{
+     float: right;
+     padding-right: 20px;   
+}
+.top a{
+    color:white;
+    text-decoration: none;
+}
+.bd
+{
+    left:15px;
+    margin: 0;
+}
+
+.title{
+    
+        color:#800080;
+    
+}
+.one{
+    width:1000px; 
+    height:900px;
+    border:5px white solid; 
+    position: relative;
+    top:15px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+
+   
+}
+.two{
+    
+        width:1000px; 
+        height:900px;
+        border:5px white solid; 
+        position: relative;
+        top:15px;
+        background-color: white;
+        left:15px;
+        right:5px;
+        margin-bottom: 10px;
+    
+}
+.three{
+  
+        width:1000px; 
+        height:700px;
+        border:5px white solid; 
+        position: relative;
+        top:15px;
+        background-color: white;
+        left:15px;
+        right:5px;
+        margin-bottom: 10px;
+    
+}
+.picture{
+    width:180px;
+    height:250px;
+    border:5px gray solid;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    position: relative;
+    float:left;
+    
+}
+.four{
+    width:1000px; 
+    height:550px;
+    border:5px white solid; 
+    position: relative;
+    top:15px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+}
+
+.color1{
+    background: rgb(36, 36, 59);
+}
+.color2{
+    background:#ccc;
+}
+
+.right{
+    width: 400px;
+    height:600px;
+    float: right;
+  
+    background:#fff;
+    margin-top: 68px;
+    }
+
+
+    
+.email_a{
+    text-align: left;
+}
+.need{
+    padding-left:145px;
+    color:gray;
+}
+.password{
+    padding-left: 65px;
+}
+.d_password{
+    padding-left: 34px;
+}
+.gender
+{
+    padding-left: 24px;
+}
+
+.hobby{
+    padding-left: 115px;
+}
+
+.dec{
+    padding-left: 11px;
+}
+.z{
+    width:250px;
+    height: 30px;
+    position: relative;
+    border:5px blue solid; 
+    background-color: blue;
+    border-radius:10px;
+    left:50px;
+    right:50px;
+    
+}
+form{
+    text-align: center;
+}

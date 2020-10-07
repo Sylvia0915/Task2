@@ -1,0 +1,128 @@
+
+body{background: #D3D3D3;}
+body{background: #D3D3D3 url(../任务二/1.png) repeat-x;}
+
+ul{
+    float:right;
+}
+.bt{
+    color:#800080;
+}
+
+
+.a{
+    width:1450px; 
+    height:750px;
+    border:5px white solid; 
+    position: relative;
+    top:80px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+
+   
+}
+
+.top a{
+    color:white;
+    text-decoration: none;
+}
+.top li{
+    text-decoration: none;
+     float: right;
+     padding-right: 20px; 
+}
+.b{
+    width:1450px; 
+    height:670px;
+    border:5px white solid; 
+    position: relative;
+    top:80px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+}
+.c{
+    width:1450px; 
+    height:900px;
+    border:5px white solid; 
+    position: relative;
+    top:80px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+}
+.tp{
+    width:250px;
+    height:250px;
+    border:5px gray solid;
+    margin-bottom: 10px;
+}
+.d{
+    width:1450px; 
+    height:560px;
+    border:5px white solid; 
+    position: relative;
+    top:80px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+}
+.bto{
+    background-color:black;
+}
+.bw{
+    background-color: cornflowerblue;
+}
+.e{
+    width:1450px; 
+    height:560px;
+    border:5px white solid; 
+    position: relative;
+    top:80px;
+    background-color: white;
+    left:15px;
+    right:5px;
+    margin-bottom: 10px;
+   
+}
+
+.f{
+    text-align: left;
+}
+.yxmm{
+    padding-left:145px;
+    color:gray;
+}
+.mm{
+    padding-left: 65px;
+}
+.cfmm{
+    padding-left: 34px;
+}
+.xb
+{
+    padding-left: 24px;
+}
+.ah{
+    padding-left: 115px;
+}
+
+.grms{
+    padding-left: 186px;
+}
+.z{
+    width:1000px;
+    height: 30px;
+    position: relative;
+    border:5px blue solid; 
+    background-color: blue;
+    border-radius:10px;
+    left:300px;
+    right:50px;
+    
+}
