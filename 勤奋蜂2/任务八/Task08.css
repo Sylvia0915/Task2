@@ -1,0 +1,17 @@
+
+.row.frame{
+    border:1px solid #999;
+    background: rgb(185, 185, 185);
+    height: 50px;
+}
+
+@media(min-width:769px){
+    .col-sm-1{width: 8.333333%;
+        }
+    .col-sm-2{width: 16.66666%;}
+    .col-sm-3{width: 25%;}
+    .col-sm-4{width: 33.33333%;}
+    .col-sm-6{width: 50%;}
+}
+
+

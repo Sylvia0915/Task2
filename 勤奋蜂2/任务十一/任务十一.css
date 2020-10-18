@@ -1,0 +1,275 @@
+body{
+    padding: 0;
+    margin: 0;
+ 
+}
+#top{
+    width: 100%;
+    height: 50px;
+    background: #99dddd;
+}
+.top_title{
+    font-size:20px;
+    color:#ffffff;
+    text-align: center;
+    position: relative;
+    bottom: 8px;
+   
+}
+.top_word{
+    font-size:15px;
+    color:#ffffff;
+    position: relative;
+    top:16px;
+    left:10px;
+}
+
+#header{
+    width: 100%;
+    height: 30px;
+}
+#nav{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 30px;
+    bottom: 5px;
+}
+#nav li{
+    float: left;
+    list-style: none;
+    font-size: 18px; 
+    color:#666666;
+}
+.pic{
+    width: 100%;
+}
+#label{
+    width: 100%;
+    height: 110px;
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+.label_pic{
+    width: 15%;
+    height: 50%;
+    position: relative;
+    right: 15px;
+    top:10px;
+}
+.label_word{
+    font-size: 5px;
+    position: relative;
+    top:70px;
+    left:24px;
+    font-weight: bold;
+
+}
+#content1{
+    width: 95%;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    border-top: grey 1px solid;
+    position: relative;
+    left: 10px;
+}
+.content1_left{
+    width: 33.33%;
+    height: 150px;
+    border-right: grey 1px solid;
+    position: relative;
+    top:10px;
+    
+}
+.content1_center{
+    width: 33.33%;
+    height: 150px;
+    border-right: grey 1px solid;
+    position: relative;
+    top:10px;
+    
+}
+.content1_right{
+    width: 33.33%;
+    height: 150px;
+    border-right:#ffffff 1px solid;
+    position: relative;
+    top:10px;
+    
+}
+.content1_pic{
+    width: 90%;
+    position: relative;
+    left:10px;
+    top:20px;
+}
+.content1_word{
+     font-size: 20px;
+     text-align: center;
+     position: relative;
+     top:16px;
+}
+.content1_word1{
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    top:16px;
+}
+#_line1{
+    width: 100%;
+    height: 10px;
+    background:   rgb(184, 182, 182);
+    position: relative;
+    left: 5px;
+}
+#content2{
+    width: 100%;
+    height: 240px;
+    position: relative;
+    left: 7px;
+ 
+
+}
+.content2_title{
+    font-size: 20px;
+    color:#666666 ;
+    position: relative;
+    left: 10px;
+    top:5px;
+}
+.content2_line{
+    width: 100%;
+    height: 1px;
+    background:  rgb(184, 182, 182);
+    position: relative;
+    top:10px;
+}
+.content2_pic{
+    width: 30%;
+    position: relative;
+    top:25px;
+    margin-bottom: 5px;
+}
+.content2_two{
+    width: 30%;
+    height: 180px;
+    position: relative;
+    bottom: 175px;
+    left: 110px;
+    margin-left: 10px;  
+}
+.content2_three{
+    width: 30%;
+    position: relative;
+    left:260px;
+    bottom: 355px;
+    
+}
+.content2_{
+    width: 100%;
+    height: 40px;
+    background:  rgb(184, 182, 182);
+    margin-bottom: 10px;
+
+   
+}
+.content2_word{
+    font-size: 20px;
+    position: relative;
+    left: 20px;
+}
+#_line2{
+    width: 100%;
+    height: 10px;
+    background:   rgb(184, 182, 182);
+    position: relative;
+    left: 5px;
+    top:10px;
+}
+#content3{
+    width: 100%;
+    height: 240px;
+     position: relative;
+    left: 7px;
+    top:11px;
+}
+#_line3{
+    width: 100%;
+    height: 10px;
+    background:  rgb(184, 182, 182);
+    position: relative;
+    left: 5px;
+    top:25px;
+}
+
+#content4{
+    width: 100%;
+    height: 135px;
+    border-bottom:  rgb(184, 182, 182) 1px solid;
+    position: relative;
+    top:25px;
+    left: 5px;
+}
+.content4_pic{
+ width: 40%;   
+ position: relative;
+ top:5px;
+}
+.content4_con{
+    width: 55%;
+    height: 120px;
+    position: relative;
+    left: 160px;
+    bottom: 122px;
+}
+.content4_title{
+    font-size: 22px;;
+    color:#666666;
+}
+.content4_word{
+    columns: #676767;;
+    position: relative;
+    top: 70px;
+}
+#content5{
+    width: 100%;
+    height: 135px;
+    border-bottom:  rgb(184, 182, 182) 1px solid;
+    position: relative;
+    top:25px;
+    left: 5px;   
+}
+#content6{
+    width: 100%;
+    height: 180px;
+    position: relative;
+    top:40px;
+}
+.content6_title{
+    font-size: 22px;
+    color: #666666;
+    position: relative;
+    left:10px;
+}
+.content6_pic{
+    width: 30%;
+    position: relative;
+    left: 10px;
+    top:10px;
+}
+.content6_word{
+    color:#bbccc7;
+    position: relative;
+    top: 20px;   
+    left: 10px;
+}
+#footer{
+    width: 100%;
+    height: 40px;
+    background:  rgb(184, 182, 182);
+    position: relative;
+    top:30px;
+}

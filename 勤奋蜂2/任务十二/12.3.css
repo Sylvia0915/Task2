@@ -1,0 +1,69 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+#frame{
+    position: relative;
+    top:200px;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    overflow: hidden;
+}
+#pic{
+    position: absolute;
+    margin: auto;
+    width:1200px;
+    height: 200px;
+    border: 1px solid black;
+    -webkit-animation: picture  ease 12s infinite;
+    animation: picture  ease 12s infinite;;
+}
+@-webkit-keyframes picture{
+ 0%{left: 0;}
+ 33.33%{left:-400px}
+ 66.66%{left: -800px;}
+ 100%{left: -1200px;}
+  }
+  @keyframes picture{
+    0%{left: 0;}
+    33.33%{left:-400px}
+    66.66%{left: -800px;}
+    100%{left: -1200px;}
+  }
+#first{
+    position: absolute;
+    left: 0;
+    width: 400px;
+    height: 200px;
+    background: blueviolet;
+}
+#second{
+    position: absolute;
+    left: 400px;
+    width:400px;
+    height: 200px;
+    background: tomato;
+}
+#third{
+    position: absolute;
+    left: 800px;
+    width:400px;
+   height: 200px;
+    background: orange;
+}
+
+  .button{
+      display: inline-block;
+      height: 40px;
+      width: 40px;
+      background:skyblue;
+      color: whitesmoke;
+      font-size: 20px;
+      list-style: none;
+      text-align: center;
+      position: relative;
+      left: 838px;
+      top:160px;      
+
+  }
